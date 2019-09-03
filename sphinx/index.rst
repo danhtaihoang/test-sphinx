@@ -3,18 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to e-machine's documentation!
-=====================================
-
+Table of Contents
+-----------------------
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   
+   codesource/emachine.ipynb
+   performance 
+   codesource/computingtime.ipynb
+   codesource/application.ipynb
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. include:: ../README.rst
